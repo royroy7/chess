@@ -45,5 +45,4 @@ This FEN represents a specific board position where it's White's turn to move, b
 
 You can use FEN notation to record and share specific chess positions and use them for various purposes, including setting up custom positions for analysis or practice.
 
-
 Credits to ASMR Programming :)
